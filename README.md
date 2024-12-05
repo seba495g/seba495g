@@ -25,4 +25,4 @@ im seba495g, under this line of text there more info about me
 
   • [495BrowserTool](https://github.com/seba495g/495BrowserTool-MultiTool-Browser), to make your browser a little more fun
 
- ⛓️‍💥 **End of README.md**
+ **End of README.md**
