@@ -3,7 +3,7 @@
 
 im seba495g, under this line of text there more info about me
 
- 📄 **About me***
+ 📄 **About me**
 
   • im 13 years old and i love programming
 
