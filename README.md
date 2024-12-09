@@ -6,7 +6,7 @@ i'm seba495g, under this line of text there more info about me <br />
  📄 **About me**
 
   • im 13 years old and i love programming <br />
-  • i program with C, Python, JavaScript and Lua <br />
+  • i program with C, Python, Go and Lua <br />
   • im a Website Developer <br />
   • also for hire, im usally busy <br />
 
