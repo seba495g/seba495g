@@ -1,7 +1,7 @@
 **Hello,**
 -
 
-im seba495g, under this line of text there more info about me <br />
+i'm seba495g, under this line of text there more info about me <br />
 
  📄 **About me**
 
